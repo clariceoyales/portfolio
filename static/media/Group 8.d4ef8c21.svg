@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="786.479" height="380" viewBox="0 0 786.479 380">
+  <g id="Group_8" data-name="Group 8" transform="translate(1171 -5986)">
+    <g id="Background_Shape_2" data-name="Background Shape 2" transform="translate(-1171 6088)" opacity="0.6">
+      <path id="Background_Shape" data-name="Background Shape" d="M786.135,173.634c11.464,77.607-266.564,128.227-505.869,92.9S-68.821,93.253,45.372,19.745,774.671,96.027,786.135,173.634Z" transform="translate(0 0)" fill="#dde3e9"/>
+    </g>
+    <g id="Image" transform="translate(-851.848 6247) rotate(180)">
+      <path id="Fill_35" data-name="Fill 35" d="M0,.008C.007.026.014.044.025.065.014.047,0-.024,0,.008" transform="translate(126.589 -63.66) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_37" data-name="Fill 37" d="M.012.023a.154.154,0,0,1,0,.018c0-.018-.032-.071,0-.018" transform="translate(126.584 -63.673) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_39" data-name="Fill 39" d="M0,0C.025.071.057.139.086.21.071.175.057.146.043.111.414,1.038.178.435,0,0" transform="translate(126.696 -63.394) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_41" data-name="Fill 41" d="M0,0C.014.032.029.068.043.1.146.3,0,0,0,0" transform="translate(126.616 -63.609) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_43" data-name="Fill 43" d="M0,0H0V0Z" transform="translate(126.576 -63.691) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_45" data-name="Fill 45" d="M0,.007S0,0,0,0,0,0,0,.007" transform="translate(126.578 -63.689) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_47" data-name="Fill 47" d="M.04.064c.021.043-.1-.164,0,0" transform="translate(126.597 -63.658) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_49" data-name="Fill 49" d="M.007.007,0,0S0,.007.007.007" transform="translate(126.58 -63.689) rotate(180)" fill="#c5cfd6"/>
+      <rect id="Photo_Background" data-name="Photo Background" width="253" height="168" rx="4" transform="translate(253.152 74) rotate(180)" fill="#f2f2f2"/>
+      <g id="icons8-night_landscape" transform="translate(20.806 -94)">
+        <path id="Mountains" d="M73.191,0l73.191,119.445H0Z" transform="translate(146.383 119.445) rotate(180)" fill="#afb9c5"/>
+        <path id="Mountains-2" data-name="Mountains" d="M64.705,0l64.705,87.451H0Z" transform="translate(213.361 87.451) rotate(180)" fill="#c5cfd6"/>
+      </g>
+      <circle id="Sun" cx="24" cy="24" r="24" transform="translate(221.152 41) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="Image-2" data-name="Image" transform="translate(-486.848 6067.783) rotate(180)">
+      <path id="Fill_35-2" data-name="Fill 35" d="M0,.005C0,.017.009.029.016.043.009.031,0-.016,0,.005" transform="translate(82.611 -74.213) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_37-2" data-name="Fill 37" d="M.008.015a.1.1,0,0,1,0,.012c0-.012-.021-.047,0-.012" transform="translate(82.608 -74.221) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_39-2" data-name="Fill 39" d="M0,0C.016.047.037.091.056.137.047.114.037.1.028.072.27.677.116.284,0,0" transform="translate(82.681 -74.04) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_41-2" data-name="Fill 41" d="M0,0,.028.065C.1.2,0,0,0,0" transform="translate(82.629 -74.18) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_43-2" data-name="Fill 43" d="M0,0H0V0Z" transform="translate(82.603 -74.233) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_45-2" data-name="Fill 45" d="M0,0S0,0,0,0,0,0,0,0" transform="translate(82.604 -74.232) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_47-2" data-name="Fill 47" d="M.026.042c.014.028-.065-.107,0,0" transform="translate(82.616 -74.212) rotate(180)" fill="#c5cfd6"/>
+      <path id="Fill_49-2" data-name="Fill 49" d="M0,0,0,0S0,0,0,0" transform="translate(82.605 -74.232) rotate(180)" fill="#c5cfd6"/>
+      <rect id="Photo_Background-2" data-name="Photo Background" width="165" height="110" rx="4" transform="translate(165.152 15.783) rotate(180)" fill="#a1775f"/>
+      <g id="icons8-night_landscape-2" data-name="icons8-night_landscape" transform="translate(96.967 -68.14) rotate(90)">
+        <path id="Mountains-3" data-name="Mountains" d="M29.1,0,58.2,39.333H0Z" transform="translate(58.205 39.333) rotate(180)" fill="#c5cfd6"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(86.12 -17.117)">
+      <g id="Mobile3" transform="translate(-1021.744 6003.004)">
+        <rect id="Container" width="312" height="336" rx="8" transform="translate(-0.376 0.112)" fill="#2b2c2e"/>
+        <ellipse id="Touch" cx="16" cy="17" rx="16" ry="17" transform="translate(139.624 281.112)" fill="#fff"/>
+        <g id="Camera" transform="translate(139.293 18.252)">
+          <circle id="Lens" cx="2" cy="2" r="2" transform="translate(0.331 -0.14)" fill="#fff"/>
+          <rect id="Sensor" width="23" height="4" rx="2" transform="translate(9.331 -0.14)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Row" transform="translate(-1006.374 6037.587)">
+        <rect id="Container-2" data-name="Container" width="280" height="61" rx="4" transform="translate(0.254 -0.471)" fill="#fff"/>
+        <g id="Text_Stuff" data-name="Text Stuff" transform="translate(9.991 17.963)">
+          <rect id="Label" width="81.275" height="9.018" rx="3" fill="#dde3e9"/>
+          <rect id="Label-2" data-name="Label" width="54.554" height="9.018" rx="3" transform="translate(0 15.03)" fill="#dde3e9"/>
+        </g>
+        <g id="Check" transform="translate(257.452 22.095)">
+          <ellipse id="Background" cx="8" cy="7.5" rx="8" ry="7.5" transform="translate(-0.198 0.435)" fill="#dde3e9"/>
+          <circle id="Indicator" cx="3.5" cy="3.5" r="3.5" transform="translate(3.802 4.435)" fill="#f2f2f2"/>
+        </g>
+      </g>
+      <g id="Row-2" data-name="Row" transform="translate(-1006.374 6212.424)">
+        <rect id="Container-3" data-name="Container" width="280" height="60" rx="4" transform="translate(0.254 -0.308)" fill="#fff"/>
+        <g id="Text_Stuff-2" data-name="Text Stuff" transform="translate(9.991 17.923)">
+          <rect id="Label-3" data-name="Label" width="81.275" height="9.018" rx="3" fill="#dde3e9"/>
+          <rect id="Label-4" data-name="Label" width="54.554" height="9.018" rx="3" transform="translate(0 15.03)" fill="#dde3e9"/>
+        </g>
+        <g id="Check-2" data-name="Check" transform="translate(257.452 22.095)">
+          <circle id="Background-2" data-name="Background" cx="8" cy="8" r="8" transform="translate(-0.198 -0.402)" fill="#dde3e9"/>
+          <circle id="Indicator-2" data-name="Indicator" cx="3.5" cy="3.5" r="3.5" transform="translate(3.802 4.598)" fill="#f2f2f2"/>
+        </g>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(-1006.374 6109.636)">
+        <rect id="Container-4" data-name="Container" width="280" height="90" rx="4" transform="translate(0.254 0.481)" fill="#fff"/>
+        <g id="Group_4" data-name="Group 4" transform="translate(37.465 22.095)">
+          <g id="Image-3" data-name="Image" transform="translate(72.048 47.071) rotate(180)">
+            <path id="Fill_35-3" data-name="Fill 35" d="M0,0,.007.018C0,.013,0-.007,0,0" transform="translate(36.064 8.151) rotate(180)" fill="#c5cfd6"/>
+            <path id="Fill_37-3" data-name="Fill 37" d="M0,.007A.044.044,0,0,1,0,.012C0,.007,0-.009,0,.007" transform="translate(36.063 8.148) rotate(180)" fill="#c5cfd6"/>
+            <path id="Fill_39-3" data-name="Fill 39" d="M0,0C.007.02.016.039.024.06L.012.031C.117.294.05.123,0,0" transform="translate(36.095 8.226) rotate(180)" fill="#c5cfd6"/>
+            <path id="Fill_41-3" data-name="Fill 41" d="M0,0,.012.028C.041.085,0,0,0,0" transform="translate(36.072 8.166) rotate(180)" fill="#c5cfd6"/>
+            <path id="Fill_43-3" data-name="Fill 43" d="M0,0Z" transform="translate(36.061 8.142) rotate(180)" fill="#c5cfd6"/>
+            <path id="Fill_45-3" data-name="Fill 45" d="M0,0S0,0,0,0,0,0,0,0" transform="translate(36.061 8.143) rotate(180)" fill="#c5cfd6"/>
+            <path id="Fill_47-3" data-name="Fill 47" d="M.011.018c.006.012-.028-.046,0,0" transform="translate(36.067 8.152) rotate(180)" fill="#c5cfd6"/>
+            <path id="Fill_49-3" data-name="Fill 49" d="M0,0,0,0S0,0,0,0" transform="translate(36.062 8.143) rotate(180)" fill="#c5cfd6"/>
+            <rect id="Photo_Background-3" data-name="Photo Background" width="72" height="47" rx="4" transform="translate(72.259 46.685) rotate(180)" fill="#a1775f"/>
+            <g id="icons8-night_landscape-3" data-name="icons8-night_landscape" transform="translate(40.977 12.903) rotate(90)">
+              <path id="Mountains-4" data-name="Mountains" d="M10.572,0,21.143,14.288H0Z" transform="translate(21.143 14.288) rotate(180)" fill="#c5cfd6"/>
+            </g>
+          </g>
+          <g id="Text_Stuff-3" data-name="Text Stuff" transform="translate(90.542 3.982)">
+            <rect id="Label-5" data-name="Label" width="114.29" height="9.018" rx="3" transform="translate(0 14.474)" fill="#a1775f"/>
+            <rect id="Label-6" data-name="Label" width="114.29" height="9.018" rx="3" transform="translate(0 0)" fill="#a1775f"/>
+            <rect id="Label-7" data-name="Label" width="54.554" height="9.018" rx="3" transform="translate(0 29.504)" fill="#a1775f"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
